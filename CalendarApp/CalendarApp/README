@@ -6,3 +6,8 @@ CalendarApp is an application that allows a user to save events for each hour of
 
 Use the URL provided to load page.
 
+## Usage
+
+For each hour of the day the user will type an event into the input bar and hit save. The data they input will be saved
+and available to be called back.
+
